@@ -1,8 +1,8 @@
 name: Demo
-on: workflow-dispatch
+on: workflow_dispatch
 jobs:
   first-job:
-    runs-on: Unbuntu-latest
+    runs-on: unbuntu-latest
     steps:
       - name: Print step
         run: echo "hello World !"
