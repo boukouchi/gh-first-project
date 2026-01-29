@@ -5,4 +5,6 @@ jobs:
     runs-on: unbuntu-latest
     steps:
       - name: Print step
-        run: echo "hello World !"
+        run: |
+          echo "hello World !"
+          echo "hello Snoy !"
