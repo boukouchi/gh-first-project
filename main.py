@@ -46,7 +46,7 @@ def get_mascot(guid):
         if guid == mascot["guid"]:
             return jsonify(mascot)
     abort(404)
-    #return None
+    # return None
 
 
 @API.errorhandler(404)
