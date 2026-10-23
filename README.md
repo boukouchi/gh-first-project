@@ -1,3 +1,7 @@
+# The Mascot API
+
+[![Pipeline](https://github.com/boukouchi/gh-first-project/actions/workflows/pipeline.yml/badge.svg)](https://github.com/boukouchi/gh-first-project/actions/workflows/pipeline.yml)
+
 # 03_02 Linting and Unit Tests
 
 In this lesson, you'll take the first step toward building a reliable CI/CD pipeline by implementing linting and unit testing.
